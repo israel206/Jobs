@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img alt="JobsCalc" src=".github/JobsCalculo" width="80%">
+  <img alt="JobsCalc" src=".github/JobsCalculo.gif" width="80%">
 </p>
 
 ---

@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img alt="JobsCalc" src=".github/Jobs.png" width="80%">
+  <img alt="JobsCalc" src=".github/JobsCalculo" width="80%">
 </p>
 
 ---
@@ -38,6 +38,29 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - EJS
 - Express
 - SQLite
+
+---
+
+## 👨‍💻 Clonando o projeto
+
+  ```bash
+    # clone do repositório
+    $ git clone https://github.com/israel206/Jobs.git
+  ```
+
+---
+
+## 🚀 Iniciando o projeto
+
+```bash
+# instalando as dependências
+$ npm install
+
+# rodando o projeto
+$ npm run dev
+```
+
+Acessando o projeto via browser.  `http://localhost:3000`
 
 ---
 

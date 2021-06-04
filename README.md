@@ -53,4 +53,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ---
 
-Feito com ♥ by Israel Silva com os direitos reservado da Rocketseat
+Made with 💜 [by Israel Silva](https://israel206.github.io/) 👋 com os direitos reservado da Rocketseat
